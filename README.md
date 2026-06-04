@@ -38,3 +38,9 @@ and product performance for a McDonald's restaurant operation.
 - **PowerPoint** — Executive presentation and data storytelling
 
 ## 📁 Repository Structure
+mcdonalds-sales-analysis/
+├── 📊 MCD_ANALYSIS.xlsx
+├── 📑 McDonalds_Sales_Analysis_Report.pptx
+├── 📝 README.md
+├── 📄 mcdonalds_menu_items.xlsx
+└── 📄 order_details.xlsx
