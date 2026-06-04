@@ -3,7 +3,8 @@
 
 # 🍔 McDonald's Sales Analysis
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview]<img width="1273" height="565" alt="image" src="https://github.com/user-attachments/assets/2e148b78-92c7-4795-90dc-29898a6ed645" />
+
 
 ## 📌 Project Overview
 Comprehensive sales intelligence report analyzing **12,097 orders** 
